@@ -17,7 +17,8 @@ A modern creative portfolio website concept built using HTML, CSS, and JavaScrip
 - Vanilla JavaScript
 
 ## Preview
-(Add screenshot here)
+<img width="1920" height="5835" alt="screencapture-127-0-0-1-5500-index-html-2026-05-05-15_47_41" src="https://github.com/user-attachments/assets/53fa2da0-df38-4dd4-831c-30585dd0d55e" />
+
 
 ## Live Demo
 (Add GitHub Pages link here)
